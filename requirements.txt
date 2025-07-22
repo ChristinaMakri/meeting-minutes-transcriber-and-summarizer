@@ -1,0 +1,7 @@
+torch
+torchaudio
+transformers
+gradio
+sentence-transformers
+keybert
+accelerate
